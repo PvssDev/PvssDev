@@ -48,8 +48,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na **C.E.S.A.R School**.
 
 ---
 
-## 📊 Estatísticas
-
 <p align="left">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PvssDev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PvssDev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
