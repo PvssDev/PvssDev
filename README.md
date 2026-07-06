@@ -49,8 +49,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na **C.E.S.A.R School**.
 ---
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PvssDev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PvssDev&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PvssDev&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PvssDev&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Linguagens mais usadas" />
 </p>
 
 ---
