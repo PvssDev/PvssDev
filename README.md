@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/header.svg" alt="Pedro Vinícius - Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,65:24103c,100:7c3aed&height=130&section=header&text=Pedro%20Vinícius&fontSize=32&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Analysis%20and%20Systems%20Development&descSize=15&descAlignY=58&descAlign=50" alt="Banner Pedro Vinicius" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Python+%E2%80%A2+Streamlit+%E2%80%A2+Flask;Angular+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;C+%2F+C%2B%2B+%E2%80%A2+Git+%E2%80%A2+Linux" alt="Stacks em rotação de 3 em 3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Python+%E2%80%A2+Streamlit+%E2%80%A2+Flask;Angular+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;C+%2F+C%2B%2B+%E2%80%A2+Git+%E2%80%A2+Linux" alt="Stacks em rotação de 3 em 3" />
   </a>
 </p>
 
-### 🚀 Sobre Mim
+### 💜 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na **C.E.S.A.R School**. Sou apaixonado por resolver problemas através de código, transitando com facilidade entre a criação de APIs robustas no back-end e interfaces fluidas, modernas e intuitivas no front-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas na **C.E.S.A.R School**. Apaixonado por resolver problemas através de código, transitando com fluidez entre a criação de APIs robustas no back-end e interfaces modernas, intuitivas e agradáveis no front-end.
 
 ```yaml
 nome: Pedro Vinícius
@@ -94,7 +94,7 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=PvssDev&theme=tokyonight&hide_border=true&border_radius=8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=PvssDev&theme=tokyonight&hide_border=true&border_radius=8&background=0d1117&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&currStreakNum=f3e8ff&sideNums=d8b4fe&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PvssDev&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -104,10 +104,14 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
 
 <p align="center">
   <a href="https://linkedin.com/in/pedro-vinicíus-311779359" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:pedrovindev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,65:24103c,100:7c3aed&height=70&section=footer" width="100%"/>
 </p>
