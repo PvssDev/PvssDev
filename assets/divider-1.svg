@@ -1,6 +1,6 @@
 <svg width="850" height="8" viewBox="0 0 850 8" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Máscara com fade in e fade out amplo nas extremidades -->
+    <!-- Máscara de fade in e fade out nas pontas -->
     <linearGradient id="maskGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000" />
       <stop offset="18%" stop-color="#ffffff" />
@@ -12,26 +12,26 @@
       <rect x="0" y="0" width="850" height="8" fill="url(#maskGrad1)" />
     </mask>
 
-    <!-- Gradiente fino: zona quase apagada (opacidade 0.08) e feixe de luz suave em loop de 7.5s -->
-    <linearGradient id="flowGrad1" x1="-80%" y1="0%" x2="120%" y2="0%">
-      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.08">
-        <animate attributeName="stop-color" values="#6d28d9; #a855f7; #6d28d9" dur="7.5s" repeatCount="indefinite" />
+    <!-- Gradiente com vaivém contínuo suave (sem saltos bruscos) -->
+    <linearGradient id="flowGrad1" x1="-50%" y1="0%" x2="50%" y2="0%">
+      <stop offset="0%" stop-color="#6d28d9" stop-opacity="0.15" />
+      <stop offset="35%" stop-color="#a855f7" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.9">
+        <animate attributeName="stop-color" values="#c084fc; #e879f9; #f3e8ff; #c084fc" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="25%" stop-color="#7c3aed" stop-opacity="0.12" />
-      <stop offset="45%" stop-color="#c084fc" stop-opacity="0.85">
-        <animate attributeName="stop-color" values="#c084fc; #e879f9; #c084fc" dur="7.5s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="60%" stop-color="#f3e8ff" stop-opacity="0.95" />
-      <stop offset="75%" stop-color="#a855f7" stop-opacity="0.3" />
-      <stop offset="88%" stop-color="#6d28d9" stop-opacity="0.08" />
-      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.08" />
-      <animate attributeName="x1" values="-80%; 40%; 160%" dur="7.5s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="120%; 240%; 360%" dur="7.5s" repeatCount="indefinite" />
+      <stop offset="65%" stop-color="#a855f7" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.15" />
+      
+      <!-- Animação de ida e volta fluida em 8s (começa e termina no mesmo ponto) -->
+      <animate attributeName="x1" values="-60%; 60%; -60%" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+      <animate attributeName="x2" values="40%; 160%; 40%" dur="8s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
     </linearGradient>
   </defs>
 
   <g mask="url(#edgeFade1)">
-    <!-- Linha fina de 1.1px -->
+    <!-- Linha base de sustentação sutil para nunca apagar 100% do nada -->
+    <rect x="0" y="3.4" width="850" height="1.1" fill="#7c3aed" opacity="0.12" rx="0.55" />
+    <!-- Feixe de luz em movimento fluido e contínuo -->
     <rect x="0" y="3.4" width="850" height="1.1" fill="url(#flowGrad1)" rx="0.55" />
   </g>
 </svg>

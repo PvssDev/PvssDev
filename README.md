@@ -24,7 +24,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Dev animado neon purple" />
+      <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/profile.gif" width="100%" alt="Ilustração Pedro Vinícius" />
     </td>
   </tr>
 </table>

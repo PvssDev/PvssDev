@@ -1,6 +1,6 @@
 <svg width="850" height="8" viewBox="0 0 850 8" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Máscara com fade in e fade out nas pontas -->
+    <!-- Máscara de fade in e fade out nas pontas -->
     <linearGradient id="maskGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000" />
       <stop offset="16%" stop-color="#ffffff" />
@@ -12,40 +12,27 @@
       <rect x="0" y="0" width="850" height="8" fill="url(#maskGrad3)" />
     </mask>
 
-    <!-- Gradiente com pulso de respiração lenta (14s) transitando entre luz e penumbra -->
+    <!-- Gradiente que respira e expande suavemente em 13s cíclicos (A -> B -> A) -->
     <linearGradient id="flowGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b0764" stop-opacity="0.06">
-        <animate attributeName="stop-opacity" values="0.06; 0.15; 0.06" dur="14s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="30%" stop-color="#7c3aed" stop-opacity="0.18">
-        <animate attributeName="stop-opacity" values="0.18; 0.45; 0.18" dur="14s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#3b0764" stop-opacity="0.1" />
+      <stop offset="30%" stop-color="#7c3aed" stop-opacity="0.25">
+        <animate attributeName="stop-opacity" values="0.25; 0.55; 0.25" dur="13s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
       </stop>
       <stop offset="50%" stop-color="#c084fc" stop-opacity="0.85">
-        <animate attributeName="stop-opacity" values="0.35; 0.95; 0.35" dur="14s" repeatCount="indefinite" />
-        <animate attributeName="stop-color" values="#c084fc; #f3e8ff; #a855f7; #c084fc" dur="14s" repeatCount="indefinite" />
+        <animate attributeName="stop-opacity" values="0.4; 0.95; 0.4" dur="13s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+        <animate attributeName="stop-color" values="#c084fc; #f3e8ff; #c084fc" dur="13s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
       </stop>
-      <stop offset="70%" stop-color="#7c3aed" stop-opacity="0.18">
-        <animate attributeName="stop-opacity" values="0.18; 0.45; 0.18" dur="14s" repeatCount="indefinite" />
+      <stop offset="70%" stop-color="#7c3aed" stop-opacity="0.25">
+        <animate attributeName="stop-opacity" values="0.25; 0.55; 0.25" dur="13s" repeatCount="indefinite" calcMode="spline" keyTimes="0; 0.5; 1" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
       </stop>
-      <stop offset="100%" stop-color="#3b0764" stop-opacity="0.06">
-        <animate attributeName="stop-opacity" values="0.06; 0.15; 0.06" dur="14s" repeatCount="indefinite" />
-      </stop>
+      <stop offset="100%" stop-color="#3b0764" stop-opacity="0.1" />
     </linearGradient>
-
-    <style>
-      .slow-pulse {
-        animation: breathGlow 14s ease-in-out infinite alternate;
-      }
-      @keyframes breathGlow {
-        0% { opacity: 0.4; }
-        50% { opacity: 1; }
-        100% { opacity: 0.4; }
-      }
-    </style>
   </defs>
 
   <g mask="url(#edgeFade3)">
-    <!-- Linha fina de 1.1px com respiração lenta -->
-    <rect x="0" y="3.4" width="850" height="1.1" fill="url(#flowGrad3)" rx="0.55" class="slow-pulse" />
+    <!-- Linha base de sustentação sutil -->
+    <rect x="0" y="3.4" width="850" height="1.1" fill="#7c3aed" opacity="0.1" rx="0.55" />
+    <!-- Linha com pulso de respiração contínua -->
+    <rect x="0" y="3.4" width="850" height="1.1" fill="url(#flowGrad3)" rx="0.55" />
   </g>
 </svg>
