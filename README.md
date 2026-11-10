@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Divisor de partículas e degradê roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider-1.svg" width="100%" alt="Divisor degradê dinâmico 1" />
 </p>
 
 <table>
@@ -30,7 +30,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Divisor de partículas e degradê roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider-2.svg" width="100%" alt="Divisor degradê dinâmico 2" />
 </p>
 
 ## 🛠️ Tecnologias & Stacks
@@ -80,7 +80,7 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Divisor de partículas e degradê roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider-3.svg" width="100%" alt="Divisor degradê dinâmico 3" />
 </p>
 
 ## 📌 Projetos em Destaque
@@ -96,7 +96,7 @@
 | **Stack:** `C` • `Makefile` • `Linux` • `GDB` | **Stack:** `Python` • `JSON` • `Terminal CLI` |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Divisor de partículas e degradê roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider-4.svg" width="100%" alt="Divisor degradê dinâmico 4" />
 </p>
 
 ## 📊 Estatísticas
@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Divisor de partículas e degradê roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider-1.svg" width="100%" alt="Divisor degradê dinâmico 1" />
 </p>
 
 ## 📫 Vamos nos conectar?
