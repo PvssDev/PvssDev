@@ -9,22 +9,19 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=footer" width="100%" alt="Divisor fluido roxo" />
 </p>
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="65%" valign="middle">
       <h3>✨ Sobre Mim</h3>
       <p>
         Sou estudante de Análise e Desenvolvimento de Sistemas na <b>C.E.S.A.R School</b>. Apaixonado por transformar ideias em soluções funcionais através de código, transitando com fluidez desde a concepção de APIs seguras e escaláveis no back-end até interfaces dinâmicas, intuitivas e agradáveis no front-end.
       </p>
-      <h4>🔮 No Radar (Atualmente)</h4>
-      <ul>
-        <li>🚀 <b>Construindo:</b> Aplicações web completas com <b>React</b>, <b>Next.js</b> e <b>MongoDB</b>.</li>
-        <li>📊 <b>Explorando:</b> Criação de dashboards analíticos e protótipos de dados com <b>Streamlit</b>.</li>
-        <li>⚙️ <b>Aprimorando:</b> Arquitetura de microsserviços e persistência com <b>Spring Boot</b> e <b>PostgreSQL</b>.</li>
-      </ul>
+      <p>
+        Focado na construção de sistemas web robustos, explorando arquiteturas modernas, bancos de dados relacionais e não-relacionais, e ferramentas que proporcionem uma excelente experiência de usuário.
+      </p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Dev animado neon purple" />
@@ -33,7 +30,7 @@
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=header" width="100%" alt="Divisor fluido roxo" />
 </p>
 
 ## 🛠️ Tecnologias & Stacks
@@ -83,7 +80,7 @@
 </details>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=footer" width="100%" alt="Divisor fluido roxo" />
 </p>
 
 ## 📌 Projetos em Destaque
@@ -99,7 +96,7 @@
 | **Stack:** `C` • `Makefile` • `Linux` • `GDB` | **Stack:** `Python` • `JSON` • `Terminal CLI` |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=header" width="100%" alt="Divisor fluido roxo" />
 </p>
 
 ## 📊 Estatísticas
@@ -110,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=footer" width="100%" alt="Divisor fluido roxo" />
 </p>
 
 ## 📫 Vamos nos conectar?
