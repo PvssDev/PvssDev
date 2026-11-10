@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=140&section=header&text=Pedro%20Vinícius&fontSize=32&fontAlignY=40&animation=fadeIn&fontColor=f8fafc" alt="Banner Pedro Vinicius" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=130&section=header&text=Pedro%20Vinícius&fontSize=32&fontAlignY=45&animation=fadeIn&fontColor=ffffff" alt="Banner Pedro Vinicius" width="100%" />
 </p>
 
 <p align="center">
@@ -91,18 +91,6 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
 
 ---
 
-## 🐍 Minhas Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PvssDev/PvssDev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PvssDev/PvssDev/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/PvssDev/PvssDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
-
----
-
 ## 📊 Estatísticas
 
 <p align="center">
@@ -122,8 +110,4 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
   <a href="mailto:pedrovindev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=90&section=footer" width="100%"/>
 </p>
