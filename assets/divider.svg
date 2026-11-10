@@ -1,0 +1,69 @@
+<svg width="850" height="22" viewBox="0 0 850 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente da linha suave com fade nas extremidades -->
+    <linearGradient id="softLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0" />
+      <stop offset="25%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="42%" stop-color="#a855f7" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.9" />
+      <stop offset="58%" stop-color="#a855f7" stop-opacity="0.6" />
+      <stop offset="75%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Brilho difuso da partícula central -->
+    <radialGradient id="particleGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="25%" stop-color="#f3e8ff" stop-opacity="0.85" />
+      <stop offset="55%" stop-color="#c084fc" stop-opacity="0.45" />
+      <stop offset="85%" stop-color="#7c3aed" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Partícula satélite sutil -->
+    <radialGradient id="satGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
+    </radialGradient>
+
+    <style>
+      .core-pulse {
+        animation: breathPulse 3.8s ease-in-out infinite alternate;
+        transform-origin: 425px 11px;
+      }
+      .sat-twinkle-left {
+        animation: twinkle 3s ease-in-out infinite alternate;
+      }
+      .sat-twinkle-right {
+        animation: twinkle 4.2s ease-in-out infinite alternate-reverse;
+      }
+      @keyframes breathPulse {
+        0% { transform: scale(0.82); opacity: 0.65; }
+        100% { transform: scale(1.18); opacity: 1; }
+      }
+      @keyframes twinkle {
+        0% { opacity: 0.3; transform: scale(0.8); }
+        100% { opacity: 0.95; transform: scale(1.2); }
+      }
+    </style>
+  </defs>
+
+  <!-- Linha Base com Degradê Suave -->
+  <line x1="30" y1="11" x2="820" y2="11" stroke="url(#softLineGrad)" stroke-width="1.2" stroke-linecap="round" />
+
+  <!-- Linha de Realce Central (brilho sutil no miolo da linha) -->
+  <line x1="340" y1="11" x2="510" y2="11" stroke="#e9d5ff" stroke-width="0.8" opacity="0.4" />
+
+  <!-- Halo de Luz da Partícula Central -->
+  <circle cx="425" cy="11" r="10" fill="url(#particleGlow)" class="core-pulse" />
+
+  <!-- Núcleo Central de Partícula Radiante -->
+  <circle cx="425" cy="11" r="2.8" fill="#ffffff" class="core-pulse" />
+
+  <!-- Micro-Partículas Satélites (Estilizadas e Suaves) -->
+  <circle cx="414" cy="9.5" r="1.3" fill="url(#satGlow)" class="sat-twinkle-left" />
+  <circle cx="436" cy="12.5" r="1.3" fill="url(#satGlow)" class="sat-twinkle-right" />
+  <circle cx="406" cy="11" r="0.9" fill="#c084fc" opacity="0.6" class="sat-twinkle-right" />
+  <circle cx="444" cy="11" r="0.9" fill="#c084fc" opacity="0.6" class="sat-twinkle-left" />
+</svg>
