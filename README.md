@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Pedro Vinícius - Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/header.svg" alt="Pedro Vinícius - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
