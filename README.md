@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/stardust-divider.svg" width="100%" alt="Divisor Stardust" />
 </p>
 
 <table>
@@ -30,7 +30,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/stardust-divider.svg" width="100%" alt="Divisor Stardust" />
 </p>
 
 ## 🛠️ Tecnologias & Stacks
@@ -80,7 +80,7 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/stardust-divider.svg" width="100%" alt="Divisor Stardust" />
 </p>
 
 ## 📌 Projetos em Destaque
@@ -96,7 +96,7 @@
 | **Stack:** `C` • `Makefile` • `Linux` • `GDB` | **Stack:** `Python` • `JSON` • `Terminal CLI` |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/stardust-divider.svg" width="100%" alt="Divisor Stardust" />
 </p>
 
 ## 📊 Estatísticas
@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/stardust-divider.svg" width="100%" alt="Divisor Stardust" />
 </p>
 
 ## 📫 Vamos nos conectar?
