@@ -1,16 +1,10 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=3000&color=38BDF8&center=true&vCenter=true&width=500&lines=%3C+Pedro+Vin%C3%ADcius+%2F%3E;Pedro+Vin%C3%ADcius.dev" alt="Pedro Vinícius" />
-  </a>
-</h1>
-
 <p align="center">
-  <strong>Full Stack Developer</strong> &nbsp;|&nbsp; <strong>Analysis and Systems Development student</strong>
+  <img src="./assets/header.svg" alt="Pedro Vinícius - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Python+%E2%80%A2+Streamlit+%E2%80%A2+Flask;Angular+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;C+%2F+C%2B%2B+%E2%80%A2+Git+%E2%80%A2+Linux" alt="Stacks em rotação de 3 em 3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Python+%E2%80%A2+Streamlit+%E2%80%A2+Flask;Angular+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;C+%2F+C%2B%2B+%E2%80%A2+Git+%E2%80%A2+Linux" alt="Stacks em rotação de 3 em 3" />
   </a>
 </p>
 
