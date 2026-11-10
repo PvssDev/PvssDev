@@ -8,26 +8,33 @@
   </a>
 </p>
 
-### 💜 Sobre Mim
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na **C.E.S.A.R School**. Apaixonado por resolver problemas através de código, transitando com fluidez entre a criação de APIs robustas no back-end e interfaces modernas, intuitivas e agradáveis no front-end.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>✨ Sobre Mim</h3>
+      <p>
+        Sou estudante de Análise e Desenvolvimento de Sistemas na <b>C.E.S.A.R School</b>. Apaixonado por transformar ideias em soluções funcionais através de código, transitando com fluidez desde a concepção de APIs seguras e escaláveis no back-end até interfaces dinâmicas, intuitivas e agradáveis no front-end.
+      </p>
+      <h4>🔮 No Radar (Atualmente)</h4>
+      <ul>
+        <li>🚀 <b>Construindo:</b> Aplicações web completas com <b>React</b>, <b>Next.js</b> e <b>MongoDB</b>.</li>
+        <li>📊 <b>Explorando:</b> Criação de dashboards analíticos e protótipos de dados com <b>Streamlit</b>.</li>
+        <li>⚙️ <b>Aprimorando:</b> Arquitetura de microsserviços e persistência com <b>Spring Boot</b> e <b>PostgreSQL</b>.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Dev animado neon purple" />
+    </td>
+  </tr>
+</table>
 
-```yaml
-nome: Pedro Vinícius
-foco: Full Stack Development (Web & Cloud)
-faculdade: C.E.S.A.R School
-localização: Recife - PE, Brasil
-atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
-```
-
----
-
-### 💡 No Radar (Atualmente)
-- 🔭 **Construindo:** Aplicações web completas com **React**, **Next.js** e **MongoDB**.
-- 📊 **Explorando:** Criação de dashboards analíticos e protótipos de dados com **Streamlit**.
-- ⚙️ **Aprimorando:** Arquitetura de microsserviços e APIs com **Spring Boot** e **PostgreSQL**.
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+</p>
 
 ## 🛠️ Tecnologias & Stacks
 
@@ -43,39 +50,41 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
 
   **Linguagens**
   <p align="left">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C-5B21B6?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-6D28D9?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </p>
 
   **Frameworks & Web**
   <p align="left">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Spring_Boot-7C3AED?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Angular-6D28D9?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/Flask-5B21B6?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </p>
 
   **Bancos de Dados & Storage**
   <p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Supabase-8B5CF6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   </p>
 
   **Ferramentas & SO**
   <p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   </p>
 </details>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+</p>
 
 ## 📌 Projetos em Destaque
 
@@ -89,7 +98,9 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
 | Jogo interativo via terminal Linux com temática da praia de Boa Viagem, estrutura modular com Makefile e GDB. | Aplicação de terminal com operações completas de CRUD e persistência estruturada de dados. |
 | **Stack:** `C` • `Makefile` • `Linux` • `GDB` | **Stack:** `Python` • `JSON` • `Terminal CLI` |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+</p>
 
 ## 📊 Estatísticas
 
@@ -98,7 +109,9 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PvssDev&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Linha animada neon roxa" />
+</p>
 
 ## 📫 Vamos nos conectar?
 
