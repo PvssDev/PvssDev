@@ -1,10 +1,16 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=3000&color=38BDF8&center=true&vCenter=true&width=500&lines=%3C+Pedro+Vin%C3%ADcius+%2F%3E;Pedro+Vin%C3%ADcius.dev" alt="Pedro Vinícius" />
+  </a>
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=160&section=header&text=Pedro%20Vinícius&fontSize=34&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Analysis%20and%20Systems%20Development&descSize=16&descAlignY=60&descAlign=50" alt="Banner Pedro Vinicius" width="100%" />
+  <strong>Full Stack Developer</strong> &nbsp;|&nbsp; <strong>Analysis and Systems Development student</strong>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=React;Next.js;Streamlit;MongoDB;Spring+Boot;PostgreSQL;Angular;Python;Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+MongoDB;Spring+Boot+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Python+%E2%80%A2+Streamlit+%E2%80%A2+Flask;Angular+%E2%80%A2+JavaScript+%E2%80%A2+Supabase;C+%2F+C%2B%2B+%E2%80%A2+Git+%E2%80%A2+Linux" alt="Stacks em rotação de 3 em 3" />
   </a>
 </p>
 
@@ -94,8 +100,8 @@ atualmente: Explorando o ecossistema React/Next.js & dados com Streamlit
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=PvssDev&theme=tokyonight&hide_border=true&border_radius=8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PvssDev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a" alt="Top Langs" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=PvssDev&theme=tokyonight&hide_border=true&border_radius=8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PvssDev&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
