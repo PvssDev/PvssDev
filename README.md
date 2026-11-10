@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=footer" width="100%" alt="Divisor fluido roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
 </p>
 
 <table>
@@ -30,7 +30,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=header" width="100%" alt="Divisor fluido roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
 </p>
 
 ## 🛠️ Tecnologias & Stacks
@@ -80,7 +80,7 @@
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=footer" width="100%" alt="Divisor fluido roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
 </p>
 
 ## 📌 Projetos em Destaque
@@ -96,7 +96,7 @@
 | **Stack:** `C` • `Makefile` • `Linux` • `GDB` | **Stack:** `Python` • `JSON` • `Terminal CLI` |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=header" width="100%" alt="Divisor fluido roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
 </p>
 
 ## 📊 Estatísticas
@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,70:24103c,100:7c3aed&height=35&section=footer" width="100%" alt="Divisor fluido roxo" />
+  <img src="https://raw.githubusercontent.com/PvssDev/PvssDev/main/assets/divider.svg" width="100%" alt="Linha Shimmer Beam" />
 </p>
 
 ## 📫 Vamos nos conectar?

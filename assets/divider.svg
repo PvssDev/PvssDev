@@ -1,0 +1,40 @@
+<svg width="850" height="10" viewBox="0 0 850 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente da Linha Base -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0" />
+      <stop offset="15%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.6" />
+      <stop offset="85%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Brilho / Halo da Partícula -->
+    <radialGradient id="beamHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="25%" stop-color="#e9d5ff" stop-opacity="0.9" />
+      <stop offset="55%" stop-color="#c084fc" stop-opacity="0.5" />
+      <stop offset="80%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Linha Base Fina com Fade nas Pontas -->
+  <line x1="0" y1="5" x2="850" y2="5" stroke="url(#lineGrad)" stroke-width="1.5" />
+
+  <!-- Feixe / Partícula de Luz Deslizante (Shimmer Beam) -->
+  <g>
+    <!-- Halo Elíptico de Brilho -->
+    <ellipse rx="35" ry="4" fill="url(#beamHalo)">
+      <animate attributeName="cx" from="-50" to="900" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="5;5" dur="7s" repeatCount="indefinite" />
+    </ellipse>
+
+    <!-- Ponto Central Brilhante -->
+    <circle r="1.8" fill="#ffffff">
+      <animate attributeName="cx" from="-50" to="900" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="5;5" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;0.5;1;1;0.5;0" dur="7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
