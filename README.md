@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=130&section=header&text=Pedro%20Vinícius&fontSize=32&fontAlignY=45&animation=fadeIn&fontColor=ffffff" alt="Banner Pedro Vinicius" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:38bdf8&height=160&section=header&text=Pedro%20Vinícius&fontSize=34&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Analysis%20and%20Systems%20Development&descSize=16&descAlignY=60&descAlign=50" alt="Banner Pedro Vinicius" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Estudante+C.E.S.A.R+School;React+%7C+Next.js+%7C+Spring+Boot" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=React;Next.js;Streamlit;MongoDB;Spring+Boot;PostgreSQL;Angular;Python;Java" alt="Typing SVG" />
   </a>
 </p>
 
