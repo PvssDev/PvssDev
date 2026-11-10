@@ -1,40 +1,35 @@
-<svg width="850" height="10" viewBox="0 0 850 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="8" viewBox="0 0 850 8" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Máscara de fade in e fade out nas extremidades -->
+    <!-- Máscara com fade in e fade out nas pontas -->
     <linearGradient id="maskGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#000000" />
-      <stop offset="15%" stop-color="#ffffff" />
-      <stop offset="85%" stop-color="#ffffff" />
+      <stop offset="20%" stop-color="#ffffff" />
+      <stop offset="80%" stop-color="#ffffff" />
       <stop offset="100%" stop-color="#000000" />
     </linearGradient>
 
     <mask id="edgeFade2">
-      <rect x="0" y="0" width="850" height="10" fill="url(#maskGrad2)" />
+      <rect x="0" y="0" width="850" height="8" fill="url(#maskGrad2)" />
     </mask>
 
-    <!-- Gradiente que desliza da direita para a esquerda em tons de fúcsia e lilás suave -->
-    <linearGradient id="flowGrad2" x1="200%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#4c1d95">
-        <animate attributeName="stop-color" values="#4c1d95; #9333ea; #c084fc; #d946ef; #4c1d95" dur="10s" repeatCount="indefinite" />
+    <!-- Gradiente reverso bem lento (11.5s) com trecho quase apagado (0.05) -->
+    <linearGradient id="flowGrad2" x1="160%" y1="0%" x2="-40%" y2="0%">
+      <stop offset="0%" stop-color="#3b0764" stop-opacity="0.05" />
+      <stop offset="20%" stop-color="#581c87" stop-opacity="0.08" />
+      <stop offset="40%" stop-color="#9333ea" stop-opacity="0.25" />
+      <stop offset="55%" stop-color="#d946ef" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#d946ef; #c084fc; #f3e8ff; #d946ef" dur="11.5s" repeatCount="indefinite" />
       </stop>
-      <stop offset="30%" stop-color="#d946ef">
-        <animate attributeName="stop-color" values="#d946ef; #c084fc; #f3e8ff; #9333ea; #d946ef" dur="10s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#f3e8ff">
-        <animate attributeName="stop-color" values="#f3e8ff; #d946ef; #9333ea; #c084fc; #f3e8ff" dur="10s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="70%" stop-color="#9333ea">
-        <animate attributeName="stop-color" values="#9333ea; #4c1d95; #c084fc; #d946ef; #9333ea" dur="10s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#4c1d95">
-        <animate attributeName="stop-color" values="#4c1d95; #9333ea; #c084fc; #d946ef; #4c1d95" dur="10s" repeatCount="indefinite" />
-      </stop>
-      <animate attributeName="x1" values="200%; 100%; 0%" dur="10s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="0%; -100%; -200%" dur="10s" repeatCount="indefinite" />
+      <stop offset="70%" stop-color="#f3e8ff" stop-opacity="0.9" />
+      <stop offset="85%" stop-color="#a855f7" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#3b0764" stop-opacity="0.05" />
+      <animate attributeName="x1" values="160%; 40%; -80%" dur="11.5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="-40%; -160%; -280%" dur="11.5s" repeatCount="indefinite" />
     </linearGradient>
   </defs>
 
   <g mask="url(#edgeFade2)">
-    <rect x="0" y="4" width="850" height="2.2" fill="url(#flowGrad2)" rx="1.1" />
+    <!-- Linha ultrafina de 1.0px -->
+    <rect x="0" y="3.5" width="850" height="1.0" fill="url(#flowGrad2)" rx="0.5" />
   </g>
 </svg>
